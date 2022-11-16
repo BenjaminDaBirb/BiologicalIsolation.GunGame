@@ -1,7 +1,7 @@
 # BiologicalIsolation.GunGame
 *An unfinished counter-strike inspired deathmatch gamemode plugin, currently undergoing development and needs public contributions to help it get completed.*
 
-*Warning!* - **This plugin is created by the Well-known Official Hungarian SCP: Secret Laboratory Server Hoster Biological Isolation, this is not meant to be used in other servers!**
+*Warning!* - **This plugin is created by the Well-known Hungarian SCP: Secret Laboratory Server Hoster Biological Isolation, this is not meant to be used in other servers!**
 
 
 # How to Contribute
